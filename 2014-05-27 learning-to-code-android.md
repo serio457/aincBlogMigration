@@ -1,6 +1,11 @@
 ---
 title: Learning to Code Android
 date: 2014-05-27 00:00:00 Z
+tags:
+- learntocode
+- android
+- awesome inc u
+- programming
 layout: post
 ---
  

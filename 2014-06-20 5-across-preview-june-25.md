@@ -1,6 +1,10 @@
 ---
 title: 5 Across Preview - June 25
 date: 2014-06-20 00:00:00 Z
+tags:
+- 5 across
+- pitch competition
+- elevator pitch
 layout: post
 ---
  

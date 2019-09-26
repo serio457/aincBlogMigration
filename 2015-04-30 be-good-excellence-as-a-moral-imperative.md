@@ -1,6 +1,14 @@
 ---
 title: Be Good: Excellence As A Moral Imperative
 date: 2015-04-30 00:00:00 Z
+tags:
+- Awesome
+- awesome inc
+- be good
+- good
+- moral
+- humility
+- excellent
 layout: post
 ---
  

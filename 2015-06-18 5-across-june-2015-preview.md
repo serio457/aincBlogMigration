@@ -1,6 +1,13 @@
 ---
 title: 5 Across June 2015 Preview
 date: 2015-06-18 00:00:00 Z
+tags:
+- 5 Across
+- awesome inc
+- pitch competition
+- shark tank
+- lexington
+- sharethelex
 layout: post
 ---
  

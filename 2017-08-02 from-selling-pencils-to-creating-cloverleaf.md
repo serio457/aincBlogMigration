@@ -1,6 +1,9 @@
 ---
 title: From Selling Pencils to Creating Cloverleaf
 date: 2017-08-02 00:00:00 Z
+tags:
+- fellowship
+- awesome fellowship
 layout: post
 ---
  

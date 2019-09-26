@@ -1,6 +1,11 @@
 ---
 title: TagaPet Selected for Amsterdam accelerator program
 date: 2013-10-27 00:00:00 Z
+tags:
+- tagapet
+- amsterdam
+- Indiegogo
+- startupbootcamp
 layout: post
 ---
  

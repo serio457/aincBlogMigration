@@ -1,6 +1,11 @@
 ---
 title: An Awesome Valedictorian
 date: 2014-06-04 00:00:00 Z
+tags:
+- Austin Magsig
+- valedictorian
+- team alpha
+- tates creek
 layout: post
 ---
  

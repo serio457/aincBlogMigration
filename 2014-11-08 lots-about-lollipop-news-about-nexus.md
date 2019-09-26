@@ -1,6 +1,12 @@
 ---
 title: Lots about Lollipop, News about Nexus
 date: 2014-11-08 00:00:00 Z
+tags:
+- google
+- nexus
+- lollipop
+- android
+- awesome inc
 layout: post
 ---
  

@@ -1,6 +1,13 @@
 ---
 title: Awesome Inc Swag Is Here!
 date: 2014-01-10 00:00:00 Z
+tags:
+- swag
+- sunglasses
+- hats
+- drawstring bags
+- stickers
+- order
 layout: post
 ---
  

@@ -1,6 +1,9 @@
 ---
 title: Another Awesome Inc Bootcamp has Begun!
 date: 2017-09-20 00:00:00 Z
+tags:
+- awesome inc u
+- bootcamps
 layout: post
 ---
  

@@ -1,6 +1,12 @@
 ---
 title: My Motivation for Launching Ignite: A Brand New Business Incubator in Ashland, KY
 date: 2014-06-05 00:00:00 Z
+tags:
+- ignite
+- entrepreneurship
+- smallbusiness
+- ashland
+- Kentucky
 layout: post
 ---
  

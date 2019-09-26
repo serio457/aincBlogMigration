@@ -10,6 +10,8 @@ require 'json'
 choppedDate = String.new
 mdDate = String.new
 author = String.new
+tag = String.new
+
 # read a JSON file and parse the contents of it into a hash 
 data = JSON.parse(File.read('postsCopy.json'))
 
@@ -24,10 +26,17 @@ data['posts'].each do |dataLine|
   output.puts "date: " + mdDate
   # output.puts "header_img: " + 
   # output.puts "author: " + 
-  output.puts "tags: "
-  dataLine['tag'].each do |tag|
-    output.puts "- " + tag
-  end 
+  if (dataLine["tag"] != nil) 
+    output.puts "tags:"
+    tag = dataLine["tag"].to_s
+    tag.delete! ']'
+    tag.delete! '['
+    tag.delete! '""'
+    tagArray = tag.split(', ')
+    tagArray.map {|d| d.to_s.prepend("- ")}
+    output.puts tagArray
+    else()  
+  end
   # output.puts "description: " + dataLine['@slug']
   output.puts "layout: post"
   output.puts "---"

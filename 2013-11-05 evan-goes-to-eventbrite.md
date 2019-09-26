@@ -1,6 +1,10 @@
 ---
 title: Evan Goes to Eventbrite
 date: 2013-11-05 00:00:00 Z
+tags:
+- evan leach
+- eventbrite
+- team alpha
 layout: post
 ---
  

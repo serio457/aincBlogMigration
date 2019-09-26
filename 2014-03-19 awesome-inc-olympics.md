@@ -1,6 +1,10 @@
 ---
 title: Awesome Inc Olympics
 date: 2014-03-19 00:00:00 Z
+tags:
+- awesome inc
+- hamzah khan
+- core values
 layout: post
 ---
  

@@ -1,6 +1,10 @@
 ---
 title: Awesome Inc’s 5 year anniversary
 date: 2014-04-01 00:00:00 Z
+tags:
+- Awesome Inc
+- rule 4
+- team
 layout: post
 ---
  

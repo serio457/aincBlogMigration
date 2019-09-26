@@ -1,6 +1,12 @@
 ---
 title: What We Learned From The Hour Of Code
 date: 2013-12-17 00:00:00 Z
+tags:
+- learntocode
+- hourofcode
+- csedweek
+- students
+- k-12 education
 layout: post
 ---
  

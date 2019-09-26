@@ -1,6 +1,16 @@
 ---
 title: How to Become a Web Developer in 12 Weeks
 date: 2016-05-04 00:00:00 Z
+tags:
+- Python
+- django
+- coding
+- bootcamp
+- developer bootcamp
+- awesome
+- awesomeinc
+- lanereport
+- computerscience
 layout: post
 ---
  

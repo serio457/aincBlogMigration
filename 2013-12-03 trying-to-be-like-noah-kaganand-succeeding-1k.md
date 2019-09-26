@@ -1,6 +1,12 @@
 ---
 title: Trying to be like Noah Kagan..and succeeding. $1k Challenge Complete.
 date: 2013-12-03 00:00:00 Z
+tags:
+- noah kagan
+- startup weekend
+- startup weekend lexington
+- beef jerky
+- 1000 dollar challenge
 layout: post
 ---
  

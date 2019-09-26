@@ -1,8 +1,15 @@
 ---
 title: How Core Value #3 Helped Us Conquer the Na Pali Coast
 date: 2015-07-29 00:00:00 Z
+tags:
+- awesome inc
+- vactaion
+- cv
+- core value
+- be a friend
+- hawaii
+- share the lex
 layout: post
-author: Theresa Simcic
 ---
  
 <figure data-orig-width="619" data-orig-height="467" class="tmblr-full"><img src="https://66.media.tumblr.com/a47946af1b63647ee0dc9e43637366d8/tumblr_inline_ns9k3rMFie1spm8pc_540.png" alt="image" data-orig-width="619" data-orig-height="467"/></figure><p><i>

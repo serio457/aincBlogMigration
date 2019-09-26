@@ -1,6 +1,15 @@
 ---
 title: 5 Across Finals Preview
 date: 2014-12-08 00:00:00 Z
+tags:
+- 5across
+- 5 across
+- Aweseome Inc
+- blinkscan
+- yousawme
+- completeset
+- vegyvida
+- supersoulstudios
 layout: post
 ---
  

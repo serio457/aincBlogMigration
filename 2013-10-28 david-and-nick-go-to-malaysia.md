@@ -1,6 +1,11 @@
 ---
 title: David and Nick go to Malaysia
 date: 2013-10-28 00:00:00 Z
+tags:
+- global startup youth
+- gsy
+- david
+- nick
 layout: post
 ---
  

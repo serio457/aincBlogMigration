@@ -1,6 +1,12 @@
 ---
 title: Awesome Inc U attends STLP State Championship
 date: 2014-05-01 00:00:00 Z
+tags:
+- awesome inc u
+- aincu
+- learntocode
+- stlp
+- programming
 layout: post
 ---
  

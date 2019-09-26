@@ -1,6 +1,10 @@
 ---
 title: The Wonders of Peer Pressure
 date: 2014-02-16 00:00:00 Z
+tags:
+- jake tapia
+- peer pressure
+- rule 37
 layout: post
 ---
  

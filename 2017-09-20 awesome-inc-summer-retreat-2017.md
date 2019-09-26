@@ -1,6 +1,10 @@
 ---
 title: Awesome Inc Summer Retreat 2017
 date: 2017-09-20 00:00:00 Z
+tags:
+- awesome inc
+- retreat
+- summer 2017
 layout: post
 ---
  

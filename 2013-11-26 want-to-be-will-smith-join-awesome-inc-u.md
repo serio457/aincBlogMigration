@@ -1,6 +1,9 @@
 ---
 title: Want to be Will Smith? Join Awesome Inc U
 date: 2013-11-26 00:00:00 Z
+tags:
+- awesome inc u
+- basic web development
 layout: post
 ---
  

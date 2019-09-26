@@ -1,6 +1,11 @@
 ---
 title: 5 Across October Preview
 date: 2015-10-26 00:00:00 Z
+tags:
+- awesome inc
+- 5 across
+- Shark Tank
+- sharethelex
 layout: post
 ---
  

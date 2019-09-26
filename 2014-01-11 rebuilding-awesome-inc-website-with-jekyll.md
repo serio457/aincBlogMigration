@@ -1,6 +1,15 @@
 ---
 title: Rebuilding Awesome Inc Website With Jekyll
 date: 2014-01-11 00:00:00 Z
+tags:
+- jekyll
+- github
+- php
+- rakefile
+- website
+- pretty urls
+- templates
+- git workflow
 layout: post
 ---
  

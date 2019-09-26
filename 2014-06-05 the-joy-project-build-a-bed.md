@@ -1,6 +1,11 @@
 ---
 title: The Joy Project - Build a Bed
 date: 2014-06-05 00:00:00 Z
+tags:
+- Joy Project
+- Build a Bed
+- Aweseome Inc
+- be good
 layout: post
 ---
  

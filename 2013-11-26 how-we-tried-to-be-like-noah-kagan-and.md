@@ -1,6 +1,11 @@
 ---
 title: How we tried to be like Noah Kagan... and succeeded
 date: 2013-11-26 00:00:00 Z
+tags:
+- noah kagan
+- startup weekend lexington
+- startup weekend
+- beef jerky
 layout: post
 ---
  

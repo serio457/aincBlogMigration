@@ -1,6 +1,10 @@
 ---
 title: Why I Took The Awesome Inc U Basic Web Course
 date: 2013-12-18 00:00:00 Z
+tags:
+- team alpha
+- awesome inc u
+- basic web development
 layout: post
 ---
  

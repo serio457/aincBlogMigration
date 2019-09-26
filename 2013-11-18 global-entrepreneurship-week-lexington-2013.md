@@ -1,6 +1,13 @@
 ---
 title: Global Entrepreneurship Week Lexington 2013
 date: 2013-11-18 00:00:00 Z
+tags:
+- gew2013
+- lexington
+- entrepreneurship
+- startupweekend
+- kentucky
+- startups
 layout: post
 ---
  

@@ -1,6 +1,9 @@
 ---
 title: 2013 5 Across Finale has an Impressive Showing
 date: 2013-12-11 00:00:00 Z
+tags:
+- 5across
+- finale
 layout: post
 ---
  

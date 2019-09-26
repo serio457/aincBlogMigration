@@ -1,6 +1,12 @@
 ---
 title: 5 Across June Recap
 date: 2015-06-25 00:00:00 Z
+tags:
+- awesome inc
+- 5 across
+- pitch competition
+- lexington
+- kentucky
 layout: post
 ---
  

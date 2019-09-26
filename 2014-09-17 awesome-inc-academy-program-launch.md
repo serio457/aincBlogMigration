@@ -1,6 +1,8 @@
 ---
 title: Awesome Inc Academy Program launch
 date: 2014-09-17 00:00:00 Z
+tags:
+- coding
 layout: post
 ---
  

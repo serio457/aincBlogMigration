@@ -1,6 +1,9 @@
 ---
 title: Why I Love Interning at Awesome Inc
 date: 2014-02-16 00:00:00 Z
+tags:
+- team alpha
+- Intern
 layout: post
 ---
  

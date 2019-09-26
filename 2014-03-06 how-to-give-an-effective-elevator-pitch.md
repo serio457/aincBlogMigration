@@ -1,6 +1,12 @@
 ---
 title: How to give an effective elevator pitch
 date: 2014-03-06 00:00:00 Z
+tags:
+- 5Across
+- elevator pitch
+- pitch competition
+- selling
+- sales
 layout: post
 ---
  

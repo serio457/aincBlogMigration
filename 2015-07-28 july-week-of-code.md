@@ -1,8 +1,17 @@
 ---
 title: July Week of Code
 date: 2015-07-28 00:00:00 Z
+tags:
+- week of code
+- coding
+- minecraft
+- startups
+- lexington
+- kentucky
+- sharethelex
+- awesome inc
+- awesome inc u
 layout: post
-author: Danny Thorne
 ---
  
 <p>By: Danny Thorne<br/></p><figure class="tmblr-full" data-orig-height="534" data-orig-width="800"><img src="https://66.media.tumblr.com/9f673afcb4d2c8f8de0b5508276a7666/tumblr_inline_ns7kqbUJ8o1spm8pc_540.jpg" data-orig-height="534" data-orig-width="800"/></figure><p>

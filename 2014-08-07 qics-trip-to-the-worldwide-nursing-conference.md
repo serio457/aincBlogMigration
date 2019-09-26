@@ -1,6 +1,11 @@
 ---
 title: QIC's Trip to the Worldwide Nursing Conference
 date: 2014-08-07 00:00:00 Z
+tags:
+- singapore
+- qic
+- nursing
+- medical
 layout: post
 ---
  

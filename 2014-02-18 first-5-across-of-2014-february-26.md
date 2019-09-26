@@ -1,6 +1,10 @@
 ---
 title: First 5 Across of 2014- February 26
 date: 2014-02-18 00:00:00 Z
+tags:
+- 5 across
+- pitch
+- pitch competition
 layout: post
 ---
  

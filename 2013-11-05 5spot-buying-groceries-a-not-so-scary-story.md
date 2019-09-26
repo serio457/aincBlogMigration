@@ -1,6 +1,15 @@
 ---
 title: 5Spot Buying Groceries - A Not so Scary Story
 date: 2013-11-05 00:00:00 Z
+tags:
+- 5spot
+- halloween
+- kindness
+- groceries
+- david
+- garrett
+- fresh
+- jake
 layout: post
 ---
  

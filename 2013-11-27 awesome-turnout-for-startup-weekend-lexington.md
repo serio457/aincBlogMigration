@@ -1,6 +1,12 @@
 ---
 title: Awesome Turnout for Startup Weekend Lexington
 date: 2013-11-27 00:00:00 Z
+tags:
+- startup weekend lexington
+- commerce lexington
+- startup weekend
+- global entrepreneurship week
+- global startup battle
 layout: post
 ---
  

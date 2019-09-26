@@ -1,6 +1,11 @@
 ---
 title: Entrepreneurs help others get what they want
 date: 2014-03-03 00:00:00 Z
+tags:
+- entrepreneurship
+- customers
+- selling
+- sales
 layout: post
 ---
  

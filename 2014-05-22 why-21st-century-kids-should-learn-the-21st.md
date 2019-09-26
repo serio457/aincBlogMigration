@@ -1,6 +1,10 @@
 ---
 title: Why 21st Century Kids Should Learn the 21st Century Skill
 date: 2014-05-22 00:00:00 Z
+tags:
+- learntocode
+- school
+- 21st century student
 layout: post
 ---
  

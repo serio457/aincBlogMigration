@@ -1,6 +1,11 @@
 ---
 title: A Word From 2013's 5 Across Finale Winner
 date: 2014-01-10 00:00:00 Z
+tags:
+- 5across
+- finale
+- Powertech energy
+- pitch
 layout: post
 ---
  

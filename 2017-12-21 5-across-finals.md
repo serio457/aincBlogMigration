@@ -1,6 +1,10 @@
 ---
 title: 5 Across Finals
 date: 2017-12-21 00:00:00 Z
+tags:
+- 5across
+- awesome inc
+- welcome-home
 layout: post
 ---
  

@@ -1,6 +1,11 @@
 ---
 title: A Swift Overview of Swift
 date: 2014-07-06 00:00:00 Z
+tags:
+- swift
+- learntocode
+- apple
+- programming
 layout: post
 ---
  

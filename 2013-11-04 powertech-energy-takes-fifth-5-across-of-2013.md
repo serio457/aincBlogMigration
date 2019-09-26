@@ -1,6 +1,9 @@
 ---
 title: PowerTech Energy takes fifth 5 Across of 2013
 date: 2013-11-04 00:00:00 Z
+tags:
+- 5across
+- powertech energy
 layout: post
 ---
  

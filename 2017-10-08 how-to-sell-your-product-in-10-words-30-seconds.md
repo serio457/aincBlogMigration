@@ -1,6 +1,10 @@
 ---
 title: How to sell your product in 10 words & 30 seconds
 date: 2017-10-08 00:00:00 Z
+tags:
+- awesome inc
+- marketing
+- eddie woodruff
 layout: post
 ---
  

@@ -1,6 +1,10 @@
 ---
 title: Code for America comes to Lexington
 date: 2014-02-05 00:00:00 Z
+tags:
+- teambiglex
+- code for america
+- lexington
 layout: post
 ---
  

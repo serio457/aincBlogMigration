@@ -1,6 +1,11 @@
 ---
 title: 5Across Competition #1
 date: 2014-03-11 00:00:00 Z
+tags:
+- 5Across
+- awesome inc
+- entrepreneurship
+- lexington
 layout: post
 ---
  

@@ -1,6 +1,11 @@
 ---
 title: The Question Every College Graduate Asks - How to Find the Right Job?
 date: 2014-01-15 00:00:00 Z
+tags:
+- team alpha
+- culture
+- awesome job
+- success
 layout: post
 ---
  

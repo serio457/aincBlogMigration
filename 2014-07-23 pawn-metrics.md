@@ -1,6 +1,10 @@
 ---
 title: Pawn Metrics
 date: 2014-07-23 00:00:00 Z
+tags:
+- awesome fellowship
+- pawn metrics
+- pawn
 layout: post
 ---
  

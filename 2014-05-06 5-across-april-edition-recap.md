@@ -1,6 +1,10 @@
 ---
 title: 5 Across April Edition Recap
 date: 2014-05-06 00:00:00 Z
+tags:
+- 5 Across
+- pitch competition
+- elevator pitch
 layout: post
 ---
  

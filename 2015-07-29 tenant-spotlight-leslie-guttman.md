@@ -1,6 +1,15 @@
 ---
 title: Tenant Spotlight: Leslie Guttman
 date: 2015-07-29 00:00:00 Z
+tags:
+- awesome inc
+- share the lex
+- lexington
+- kentucky
+- NPR
+- journalism
+- tenant spotlight
+- Leslie guttman
 layout: post
 ---
  

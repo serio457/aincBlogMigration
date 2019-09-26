@@ -1,6 +1,11 @@
 ---
 title: The Evolution of the KY Entrepreneur Hall of Fame
 date: 2014-11-18 00:00:00 Z
+tags:
+- Global Entrepreneurship Week
+- entrepreneur
+- Hall of Fame
+- Entrepreneur Hall of Fame
 layout: post
 ---
  

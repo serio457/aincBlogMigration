@@ -1,6 +1,11 @@
 ---
 title: Surrounding Yourself with Quality People
 date: 2014-06-05 00:00:00 Z
+tags:
+- rule 39
+- Aweseome Inc
+- goals
+- quality people
 layout: post
 ---
  

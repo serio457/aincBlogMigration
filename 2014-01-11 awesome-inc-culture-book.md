@@ -1,6 +1,10 @@
 ---
 title: Awesome Inc Culture Book
 date: 2014-01-11 00:00:00 Z
+tags:
+- culture book
+- culture
+- team alpha
 layout: post
 ---
  

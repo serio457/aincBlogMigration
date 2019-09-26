@@ -1,6 +1,13 @@
 ---
 title: How To Change Your Life In Just One Hour This December
 date: 2013-11-27 00:00:00 Z
+tags:
+- hour of code
+- awesome inc u
+- computer science
+- computer science education week
+- coding
+- developers
 layout: post
 ---
  

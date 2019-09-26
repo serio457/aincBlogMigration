@@ -1,6 +1,11 @@
 ---
 title: Idea State U: Helping Startups From Head To Toe
 date: 2014-05-06 00:00:00 Z
+tags:
+- Aweseome Inc
+- idea state u
+- entrepreneurship
+- startups
 layout: post
 ---
  

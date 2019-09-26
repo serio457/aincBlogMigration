@@ -1,6 +1,13 @@
 ---
 title: How I Got An Internship At Facebook
 date: 2013-12-17 00:00:00 Z
+tags:
+- facebook
+- internship
+- team alpha
+- internship at facebook
+- tommy crush
+- david booth
 layout: post
 ---
  

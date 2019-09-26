@@ -1,7 +1,12 @@
 ---
 title: August 5 Across Preview
 date: 2015-08-24 00:00:00 Z
-author: Jake Tapia
+tags:
+- pitch
+- pitch competition
+- 5 across
+- lexington
+- share the lex
 layout: post
 ---
  

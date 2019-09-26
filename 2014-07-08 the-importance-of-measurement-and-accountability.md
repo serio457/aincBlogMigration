@@ -1,6 +1,10 @@
 ---
 title: The Importance of Measurement and Accountability in Achieving Goals
 date: 2014-07-08 00:00:00 Z
+tags:
+- goals
+- Aweseome Inc
+- awesome fellowship
 layout: post
 ---
  

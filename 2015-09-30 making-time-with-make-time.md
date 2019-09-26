@@ -1,6 +1,10 @@
 ---
 title: Making Time with Make Time
 date: 2015-09-30 00:00:00 Z
+tags:
+- awesome inc
+- maketime
+- sharethelex
 layout: post
 ---
  

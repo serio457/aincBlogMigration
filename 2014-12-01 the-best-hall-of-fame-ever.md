@@ -2,7 +2,6 @@
 title: The Best Hall of Fame Ever
 date: 2014-12-01 00:00:00 Z
 layout: post
-author: Jake Tapia
 ---
  
 <p><figure class="tmblr-full" data-orig-height="1067" data-orig-width="1600" data-orig-src="https://lh4.googleusercontent.com/yJnb3vJh5I5rJUD1Cm72eVi6Sl2PPd-1ci5bXbsdZo-vwjijU_MmuXrbuR6X7vNjhOpK08fLrP7aqEFUq9NNTTZ7hHGz8BGdOIWHPCaIQKlvh5NTxbuixd5jHM2C2elisw"><img alt="image" height="416px;" src="https://66.media.tumblr.com/6ea6648362f56126833a6b284d2138f8/tumblr_inline_pjzzv564Jd1spm8pc_540.jpg" width="624px;" data-orig-height="1067" data-orig-width="1600" data-orig-src="https://lh4.googleusercontent.com/yJnb3vJh5I5rJUD1Cm72eVi6Sl2PPd-1ci5bXbsdZo-vwjijU_MmuXrbuR6X7vNjhOpK08fLrP7aqEFUq9NNTTZ7hHGz8BGdOIWHPCaIQKlvh5NTxbuixd5jHM2C2elisw"/></figure></p>
